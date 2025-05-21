@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "Apa kamu",
+      "description": "Apaa",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "KAMU",
+      "description": "KAMU"
+    }
+  ]
+}
